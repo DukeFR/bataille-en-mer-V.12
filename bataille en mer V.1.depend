@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1512834959 source:d:\programmes\bataille en mer v.1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<conio.h>
+	<time.h>
+
